@@ -15,7 +15,6 @@ pids/
 *.seed
 
 # Build output
-dist/
 build/
 out/
 coverage/
